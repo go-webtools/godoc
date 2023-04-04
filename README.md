@@ -1,0 +1,2 @@
+# godoc
+make a manunal
